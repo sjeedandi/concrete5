@@ -1,0 +1,33 @@
+{
+    "name": "sjeedandi/concrete5",
+    "description": "Concrete5 Package for Composer",
+    "keywords": ["concrete5", "cms"],
+    "homepage": "http://sjee.biz",
+    "require": {
+            "php": ">=5.*",
+            "composer/installers": "*"
+    },
+    "repositories": [
+            {
+                    "type": "package",
+                    "package": {
+                            "name": "sjeedandi/concrete5",
+                            "version": "master",
+                            "type": "concrete5-package",
+                            "source": {
+                                    "url": "https://github.com/sjeedandi/concrete5",
+                                    "type": "git",
+                                    "reference": "46f986f1e33b8bd6a4b1de2a77518117459dc4d6"
+                            }
+                    }
+            }
+    ],
+    "extra": {
+            "installer-paths": "public_html/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+
+    }
+}

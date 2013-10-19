@@ -21,11 +21,6 @@
                     }
             }
     ],
-    "extra": {
-            "installer-paths": {
-                    "htdocs/{$name}/public_html": ["sjeedandi/concrete5"]
-            }
-    },
     "minimum-stability": "stable",
     "require-dev": {
 

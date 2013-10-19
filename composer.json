@@ -23,7 +23,7 @@
     ],
     "extra": {
             "installer-paths": {
-                    "public_html/{$name}": ["sjeedandi/concrete5"]
+                    "htdocs/{$name}/public_html": ["sjeedandi/concrete5"]
             }
     },
     "minimum-stability": "stable",

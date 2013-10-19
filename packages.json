@@ -1,0 +1,7 @@
+{
+    "packages": {
+        "sjeedandi/concrete5": {
+            "dev-master": "5.6.*"
+        }
+    }
+}

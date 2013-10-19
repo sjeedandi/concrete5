@@ -4,7 +4,6 @@
     "keywords": ["concrete5", "cms"],
     "homepage": "http://sjee.biz",
     "require": {
-            "php": ">=5.*",
             "composer/installers": "*"
     },
     "repositories": [

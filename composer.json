@@ -22,10 +22,6 @@
                     }
             }
     ],
-    "extra": {
-            "installer-paths": "public_html/"
-        }
-    },
     "minimum-stability": "stable",
     "require-dev": {
 
